@@ -1,0 +1,40 @@
+.f1{
+    float: left;
+    width: 300px;
+    height: 700px;
+    margin-left: 250px;
+    background-color: aqua;
+    text-align: center;
+}
+.k1{
+    width: 300px;
+    height: 400px;
+}
+.f2{
+    width: 1000px;
+    height: 700px;
+    background-color: aqua;
+    text-align: justify;
+}
+.t1{
+    text-align: left;
+   
+    
+}
+.tesi{
+    float: right;
+    
+}
+.gamer{
+    float: right;
+    margin-top: 520px;
+margin-left: 10px;
+    margin-right: -200px;
+}
+.kondi{
+    width: 200px;
+    height: 100px  ;
+    float: right;
+    margin-top: 350px;
+    margin-right: -300px;
+}
